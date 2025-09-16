@@ -1,0 +1,58 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  text-align:center;
+}
+h1{
+  text-shadow: 2px 2px;
+  color:blue;
+}
+li{
+  text-align: center;
+}
+div{
+  text-align:center;
+}
+li{
+  font-size: 20px;
+}
+div{
+  font-size: 25px;
+}
+li{
+  list-style-type: none;
+}
+li{
+color:blue;
+}
+div{
+  color:blue;
+  font-weight: bold;
+}
+#mybutton{
+  font-size:20px;
+}
+#mybutton{
+  display: block;
+  margin: 0 auto;
+  color:white;
+  background-color: navy;
+}
+#img{
+  display: block;
+  margin: 0 auto;
+}
+body{
+  border: 35px solid skyblue;
+  height: 600px;
+  border-radius:30px ;
+  border-width: 15px;
+  bkrder
+}
+
+
+
+
+
+
